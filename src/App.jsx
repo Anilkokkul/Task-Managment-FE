@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1 className=' text-center'>
-        Hello World
+        Hello World 22
       </h1>
     </>
   )
